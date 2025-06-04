@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Node.js (frontend)
+node_modules/
+.next/
+.env.local
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# General
+.env
+.DS_Store
+
